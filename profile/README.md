@@ -1,4 +1,4 @@
-## Bangkit Academy Capstone Product Team
+## ✅ Bangkit Academy Capstone Product Team
 
 <!--
 
