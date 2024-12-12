@@ -8,3 +8,5 @@
 | Fadhilah Aisyah Putri                    | A184B4KX1321      | Mobile Development      | Universitas Andalas                    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/fadhilahaisyahputri)       |
 | Hajid Lutfi Hidayanto              |  M312B4KY1684     | Machine Learning   | Universitas Sebelas Maret                      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/hajid-lutfi-hidayanto-7149b225b)       |
   | Wahyu Tri Cahyono	                           | C193B4KY4460      | Cloud Computing   | Universitas Bina Sarana Informatika         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/wahyu-tri-cahyono-2824052b7)              
+
+![image](https://github.com/user-attachments/assets/63e21ec8-45a7-4c39-a707-d43f4d5a7ee2)
