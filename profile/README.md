@@ -1,12 +1,11 @@
-## ✅ Bangkit Academy Capstone Product Team
+## ✅ Bangkit Academy Capstone Product Team - C242-PS228
+| Member                             | Student ID        | Path                 | University                                  | Contact                              |
+|------------------------------------|-------------------|----------------------|---------------------------------------------|--------------------------------------------|
+| Devita Ayu Maharani             | M312B4KX1068      | Machine Learning     | Universitas Sebelas Maret                   | [![LinkedIn]([https://img.shields.io/badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white))      |
+| Dzakyudin Fathu Rohman           | M312B4KY1221      | Machine Learning     | Universitas Sebelas Maret                      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-matthew-batistuta-2011b5295/)   |
+| Willy                              | M204B4KY4489      | Machine Learning     | Universitas Esa Unggul                      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willy-ho-0059832a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )          |
+| Nur Trisya Novita                  | C134B4KX3425      | Cloud Computing      | Politeknik Negeri Sriwijaya                 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-trisya-n-a41441322 )          |
+| Rika Yulia Sari                    | C251B4KX3862      | Cloud Computing      | Universitas Malikussaleh                    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rika-yulia-sari-578954293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )       |
+| Cintia Ulima Cahyanto              |  A204B4KX0944     | Mobile Development   | Universitas Esa Unggul                      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cintia-ulima-2874591a7 )        |
+  | Rayhan                           | A263B4KY3707      | Mobile Development   | Universitas Muhammadiyah Purwokerto         | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayhan-ray-022933244/)                 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
